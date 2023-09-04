@@ -1,0 +1,447 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.41995,
+                    40.18994
+                ]
+            },
+            "properties": {
+                "name": "北京市"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.347043,
+                    39.288036
+                ]
+            },
+            "properties": {
+                "name": "天津市"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.502461,
+                    38.045474
+                ]
+            },
+            "properties": {
+                "name": "河北省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.304436,
+                    37.618179
+                ]
+            },
+            "properties": {
+                "name": "山西省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.077429,
+                    44.331087
+                ]
+            },
+            "properties": {
+                "name": "内蒙古自治区"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.604994,
+                    41.299712
+                ]
+            },
+            "properties": {
+                "name": "辽宁省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.171208,
+                    43.703954
+                ]
+            },
+            "properties": {
+                "name": "吉林省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.693027,
+                    48.040465
+                ]
+            },
+            "properties": {
+                "name": "黑龙江省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.438737,
+                    31.072559
+                ]
+            },
+            "properties": {
+                "name": "上海市"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.486506,
+                    32.983991
+                ]
+            },
+            "properties": {
+                "name": "江苏省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.109913,
+                    29.181466
+                ]
+            },
+            "properties": {
+                "name": "浙江省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.226884,
+                    31.849254
+                ]
+            },
+            "properties": {
+                "name": "安徽省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.006468,
+                    26.069925
+                ]
+            },
+            "properties": {
+                "name": "福建省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.732975,
+                    27.636112
+                ]
+            },
+            "properties": {
+                "name": "江西省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.187759,
+                    36.376092
+                ]
+            },
+            "properties": {
+                "name": "山东省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.619717,
+                    33.902648
+                ]
+            },
+            "properties": {
+                "name": "河南省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.271301,
+                    30.987527
+                ]
+            },
+            "properties": {
+                "name": "湖北省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.711649,
+                    27.629216
+                ]
+            },
+            "properties": {
+                "name": "湖南省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.429919,
+                    23.334643
+                ]
+            },
+            "properties": {
+                "name": "广东省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.7944,
+                    23.833381
+                ]
+            },
+            "properties": {
+                "name": "广西壮族自治区"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.754859,
+                    19.189767
+                ]
+            },
+            "properties": {
+                "name": "海南省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.8839,
+                    30.067297
+                ]
+            },
+            "properties": {
+                "name": "重庆市"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.693453,
+                    30.674545
+                ]
+            },
+            "properties": {
+                "name": "四川省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.880455,
+                    26.826368
+                ]
+            },
+            "properties": {
+                "name": "贵州省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.485106,
+                    25.008643
+                ]
+            },
+            "properties": {
+                "name": "云南省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.388277,
+                    31.56375
+                ]
+            },
+            "properties": {
+                "name": "西藏自治区"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.887114,
+                    35.263661
+                ]
+            },
+            "properties": {
+                "name": "陕西省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.823557,
+                    36.058039
+                ]
+            },
+            "properties": {
+                "name": "甘肃省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.043533,
+                    35.726403
+                ]
+            },
+            "properties": {
+                "name": "青海省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.169866,
+                    37.291332
+                ]
+            },
+            "properties": {
+                "name": "宁夏回族自治区"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.294711,
+                    41.371801
+                ]
+            },
+            "properties": {
+                "name": "新疆维吾尔自治区"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.971485,
+                    23.749452
+                ]
+            },
+            "properties": {
+                "name": "台湾省"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.134357,
+                    22.377366
+                ]
+            },
+            "properties": {
+                "name": "香港特别行政区"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.566988,
+                    22.159307
+                ]
+            },
+            "properties": {
+                "name": "澳门特别行政区"
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+<template>
+  <input type="file" @change="convertKMZToGeoJSON($event.target.files[0])">
+</template>
+<script>
+import toGeoJSON from 'togeojson'
+export default {
+  data() {
+      return {}
+  },
+  methods: {
+      convertKMZToGeoJSON(file) {
+          const reader = new FileReader();
+          reader.onload = (event) => {
+              const kmzData = event.target.result;
+              const parser = new DOMParser();
+              const kmzXml = parser.parseFromString(kmzData, 'application/xml');
+              const kml = kmzXml.getElementsByTagName('kml')[0];
+              const convertedData = toGeoJSON.kml(kml);
+              console.log(convertedData); // 输出转换后的GeoJSON数据
+          }
+          reader.readAsBinaryString(file);
+      }
+  }
+}
+</script>
